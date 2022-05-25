@@ -25,3 +25,6 @@ Congradulations you just made the Cylinders that provide friction on 1 by X bric
 ## And so It Begins 
 
 At this point hopefully nothing is broken. If it is go back and figure out what you did wrong and try to fix it. The most important thing to know before you start building legos is that no one is going to help you because no one can. There are no offical lego dimensions (for obvious reasons) and so when building parts it comes down to guessing, making assumtions based on verifiable information, and a whole lot of trial and error. I grabbed the lego brick I was trying to make and looked at it while designing it in onshape. I also always had a [Side Plate](https://www.bricklink.com/v2/catalog/catalogitem.page?P=44728&ccName=6117972#T=C&C=85) for measuring lego bricks to find out what the dimensions were. 
+
+
+[test link](https://github.com/bwright70/Guide-to-Legos/blob/main/Throwway.md)
