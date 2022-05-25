@@ -14,3 +14,4 @@ If you're here I'm going to assume you've already gone through the onshape tutor
 I do have a few things to add to that original assignment once you're done, so make a new document and rebuild that basic lego brick. 
 
 Change the Configuration to a 1x4 and begin a sketch on inside of your lego. At one end of your brick draw a circle tangent to all three sides. 
+<img src="Photos/Bottom Cylinder.PNG">
