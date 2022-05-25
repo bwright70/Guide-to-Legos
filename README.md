@@ -3,6 +3,7 @@
 ## Table of Contents 
 
 - Getting Started 
+- Updates to the Original
 
 
 ## Getting Started 
