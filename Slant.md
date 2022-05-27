@@ -22,3 +22,10 @@ Next draw a corner rectangle whose bottom two corners are the top of the constru
 
 Extrude Remove the rectangle and the triangle made by the top parrallel line. 
 <img src="Photos/Slants(2).PNG">
+
+Finally extrude add the parrallelagram created by the two parrallel lines. 
+<img src="Photos/Slants(3).PNG">
+
+And there you go now you have a slant that works on any configurations. 
+
+# Inverse Slants
