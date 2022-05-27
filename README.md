@@ -1,10 +1,6 @@
 # Guide to Legos
 
-## Table of Contents 
-
-- Getting Started 
-- Updates to the Original
-
+by Ben Wright 
 
 ### Getting Started 
 
@@ -30,7 +26,7 @@ The most important thing to know before you start building legos is that no one 
 
 I also always had a [Side Plate](https://www.bricklink.com/v2/catalog/catalogitem.page?P=44728&ccName=6117972#T=C&C=85) for measuring lego bricks to find out what the dimensions were. 
 
-## Key Knowledge 
+### Key Knowledge 
 
 Before I send you on your way I need to explain a few basics. 
 
@@ -48,7 +44,13 @@ They are:
 - Stud Height: 1.8mm
 - Tube Width: 5mm
 
-Some of these should already be familar, but the most important ones are Unit and Half_Unit. 
+Some of these should already be familar (Rows, Columns, and Height). Length, Width, Tube Width and Stud Height should also be familiar. I made them variables for convenience and to help with organization. If I were re-doing it I would probably make Length and Width one variable. Rod Thickness isn't really that important and is mainly a corner case variable
+
+The most important of the variables is Unit and Half_Unit. Unit might be vaguely familiar to you. When creating the shell, the assignment had you make the walls 1.5mm thick. This is Unit. The thickness of a standard Lego wall. I use it to measure legos to figure out distances I don't know, and when I can't figure out something I plug in Unit of Half_Unit. 
+
+It's basically just a catch-all variable for when I can't figure something out. 
+
+The [Side Plate](https://www.bricklink.com/v2/catalog/catalogitem.page?P=44728&ccName=6117972#T=C&C=85) I mentioned earlier has both Unit and Half_Unit which is why it's my go to measuring piece. It has the standard lego wall and the Side Plate part is half a standard Lego wall making it Half_Unit.  
 
 ## Pick your Own Adventure
 
