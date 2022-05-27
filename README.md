@@ -57,7 +57,7 @@ The [Side Plate](https://www.bricklink.com/v2/catalog/catalogitem.page?P=44728&c
 From here your path is up to you. Below I've included walkthroughs to various kinds of legos that I made during my time working on them, but what you need might not be the same as what I made. Hopefully the guides will help you with the basics so that you can make more specific parts, but like I said above its mainly going to be trial and error. 
 
 
-* [Slants]
+* [Slant](Slant.md)
 * [Technic]
 * [Circles]
 * [Domes] 
