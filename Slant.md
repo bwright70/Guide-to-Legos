@@ -8,4 +8,10 @@ To start make a copy of your original parts studio with the bricks. You can make
 
 Making slants is actually very simple. I would recomend designing this on the 2x3 or 1x3 brick. If you are following along in the parts studio ignore Slant Corners. I had those working at one point, but they're broken and I don't feel like fixing them. You can go through and see what I did, but I don't intend to make them work again. 
 
-First make a sketch on the Width side of your brick. 
+First make a sketch on the Width side of your brick. Like So:
+<img src="Photos/Slants.PNG">
+
+Next draw a verticle construction line connecting the top and bottom of your part and dimension it 8mm away from the left edge
+
+Then draw two lines. One starts at the top of the conntruction line and ends at the right edge. Dimension it so that its #Unit away from the bottom right corner. The second begins at the bottom Right corner and is parrallel to the first. 
+<img src="Photos/Slants(1).PNG">
