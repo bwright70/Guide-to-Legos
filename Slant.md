@@ -15,3 +15,10 @@ Next draw a verticle construction line connecting the top and bottom of your par
 
 Then draw two lines. One starts at the top of the conntruction line and ends at the right edge. Dimension it so that its #Unit away from the bottom right corner. The second begins at the bottom Right corner and is parrallel to the first. 
 <img src="Photos/Slants(1).PNG">
+
+(If you're following along in the parts studio you'll notice that I have two sketches and one of them is really weird. Ignore it.)
+
+Next draw a corner rectangle whose bottom two corners are the top of the construction line and the top right corner. Dimension it's height to be any number greater than #Stud_Height. 
+
+Extrude Remove the rectangle and the triangle made by the top parrallel line. 
+<img src="Photos/Slants(2).PNG">
