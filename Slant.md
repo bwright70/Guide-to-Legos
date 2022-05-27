@@ -29,3 +29,9 @@ Finally extrude add the parrallelagram created by the two parrallel lines.
 And there you go now you have a slant that works on any configurations. 
 
 # Inverse Slants
+
+If you are following along in document navigate to the Inverse Slants parts studio.
+
+### Lets Begin Again
+
+I would once again recommend making a copy of the original parts studio
