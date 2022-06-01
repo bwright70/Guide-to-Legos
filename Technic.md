@@ -38,7 +38,27 @@ Sketch another center circle on the new extrusion and dimension it equal to #Rod
 
 Extrude remove the sketch up to the bottom of the 6.5mm circle
 
+<img src="Photos/Technic(1).PNG">
 
+Next create yet another centerpoint circle on the top of the pillar and dimension it so thats its 0.25mm larger than the circle. Then extrude only the outside ring #Half_Unit/2 or 0.375mm 
 
+This creates a small lip that allows the technic pin to stay secure. 
 
+<img src="Photos/Technic(2).PNG">
+
+Now we're going to make the part of the technic pin that doesn't work. 
+
+Create a Sketch on the lip of the Technic Pin. 
+
+Draw a horizontal construction line from the center of the circle to the edge. Then draw two horizontal lines on the lip of the pin symmetric around the center line and #Half_Unit away from each other. 
+
+<img src="Photos/Technic(3).PNG">
+
+Extrude remove the new sketch a very specific number: #Unit * 2 + #Half_Unit * 1.33 or 3.998mm 
+
+Just trust me on this one cause I don't remember why I chose this to be the distance but I'm like 85% sure it's pretty close to correct. 
+
+Finally mirror the extrude remove over whatever plane works to make it show up on the other side of the lip. For me it was the right plane
+
+<img src="Photos/Technic(4).PNG">  
 
