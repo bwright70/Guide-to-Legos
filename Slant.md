@@ -47,3 +47,10 @@ Next sketch on the front face of your brick. Draw a line from the bottom edge to
 <img src="Photos/Slants(5).PNG">
 
 Extrude remove (up to face of the opposite side) the bottom triangle created by the new sketch. 
+
+It might look like the part is now complete but we're still missing something. 
+
+Create a sketch on the inside face of the brick. Then create the cylinder feature use in 1 by X bricks. 
+
+Your final part should look like this: 
+
