@@ -58,7 +58,7 @@ From here your path is up to you. Below I've included walkthroughs to various ki
 
 
 * [Slant](Slant.md)
-* [Technic]
+* [Technic](Technic.md)
 * [Circles]
 * [Domes] 
 * [Wings] 
