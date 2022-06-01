@@ -32,9 +32,9 @@ This means that the total length of a technic pin is 16mm because that is the wi
 
 Anyway tangent aside lets get back to the part. 
 
-Sketch another center circle on the new extrusion and dimension it equal to #Rod_Width
+Sketch another center circle on the new extrusion and dimension it equal to #Rod_Thickness or 4mm 
 
-#### (Rod_Width also requires futher testing and it's just a place holder)
+#### (Rod_Thickness also requires futher testing and it's just a place holder)
 
 Extrude remove the sketch up to the bottom of the 6.5mm circle
 
