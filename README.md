@@ -40,7 +40,7 @@ They are:
 - Height: 10 or 10/3
 - Length: 8mm 
 - Width: 8mm
-- Rod Thickness: 3.2mm
+- Rod Thickness: 4mm
 - Stud Height: 1.8mm
 - Tube Width: 5mm
 
