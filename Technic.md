@@ -48,6 +48,12 @@ This creates a small lip that allows the technic pin to stay secure.
 
 Now we're going to make the part of the technic pin that doesn't work. 
 
+It doesn't work not because of a bad design but simply because the materials used in a 3d printer aren't quite the same as an actual legso. 
+
+The design is acurate but the material isn't flexable enough. To fix this you will probably have to make the divets in the pins wider to allow the pin to flex better. 
+
+#### For now, I would recommend following the guide and changing dimensions later.
+
 Create a Sketch on the lip of the Technic Pin. 
 
 Draw a horizontal construction line from the center of the circle to the edge. Then draw two horizontal lines on the lip of the pin symmetric around the center line and #Half_Unit away from each other. 
@@ -71,3 +77,5 @@ Draw two verticle lines on the edge and dimension them to be #Half_Unit away and
 Extrude remove the new feature #Unit * 1.75 or 2.625mm. Once again don't ask why; I don't remember. 
 
 <img src="Photos/Technic(5).PNG">  
+
+Mirror the extrusion over the plane perpendicular 
