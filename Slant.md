@@ -54,3 +54,30 @@ Create a sketch on the inside face of the brick. Then create the cylinder featur
 
 Your final part should look like this: 
 
+<img src="Photos/Slants(6).PNG">
+
+So now you have two new kinds of bricks. Congratulations! 
+
+The tutorial is over so if thats all you care about you can leave. 
+I'm just going to walk you through a bit of the design process and why I made the choices I made.
+
+### Designing Slants
+
+As you now know the Slants are very simple, but I still think it might be helpful to share what I was thinking as I designed them. 
+
+I first had to determine the height of the slant ending from the bottom of the part. This is when I first created Unit. That magical variable that defined much of my designs. 
+
+I then determined that the remaining part of the studs on the top of the brick was just one #Length or 8mm.  
+It was a simple as drawing a line connecting the two points. 
+
+The next issue came from the remaining studs. Removing the part that connected them to the brick made them into their own parts. I could delete them but every time I made the brick expand I would have to delete more parts. 
+
+The obvious solution is to change the variable table. Unforchunantly this doesn't work as the base dimensions of the brick change along with the pattern. We could very easily change this but that would involve adding new variables and the easiest solution ended up being to just remove the Studs along with the Slant. 
+
+Then its just a second line to fill in the slant and boom We're done. 
+
+### Designing Inverse Slants
+
+Basically the exact same process is true for inverse slants as it is for slants. 
+
+I filled in the hollow so that there wouldn't be a pocket when I added back and slant and we redesigned the cylinders to work length-wise instead of width-wise. 
