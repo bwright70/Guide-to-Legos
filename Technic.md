@@ -62,3 +62,12 @@ Finally mirror the extrude remove over whatever plane works to make it show up o
 
 <img src="Photos/Technic(4).PNG">  
 
+We're are now going to do exactly what we did on the top of the pin but on the bottom. 
+
+Make a sketch on the bottom of the pin and draw a Verticle construction line this time. 
+
+Draw two verticle lines on the edge and dimension them to be #Half_Unit away and symmetric around the construction line
+
+Extrude remove the new feature #Unit * 1.75 or 2.625mm. Once again don't ask why; I don't remember. 
+
+<img src="Photos/Technic(5).PNG">  
