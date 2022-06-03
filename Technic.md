@@ -78,4 +78,12 @@ Extrude remove the new feature #Unit * 1.75 or 2.625mm. Once again don't ask why
 
 <img src="Photos/Technic(5).PNG">  
 
-Mirror the extrusion over the plane perpendicular 
+Mirror the extrusion over the plane perpendicular to the plane used for the first mirror. 
+
+For me that was the Front plane. 
+
+Finally we're going to add fillets
+
+Select the edges of the four flex extrusions that touch the wall and the outside edge of the bottom disk. Dimension it to be #Half_Unit/2 or 0.375mm 
+
+<img src="Photos/Technic(6).PNG">  
