@@ -87,3 +87,11 @@ Finally we're going to add fillets
 Select the edges of the four flex extrusions that touch the wall and the outside edge of the bottom disk. Dimension it to be #Half_Unit/2 or 0.375mm 
 
 <img src="Photos/Technic(6).PNG">  
+
+Make a new fillet and select the bottom and top edges of the top disk and dimension it equal to 0.25mm 
+
+<img src="Photos/Technic(7).PNG">  
+
+Finally Finally part mirror your part over the intial plane you sketched on. For me this was Top plane
+
+<img src="Photos/Technic(8).PNG">  
