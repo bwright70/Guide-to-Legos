@@ -58,6 +58,8 @@ Your final part should look like this:
 
 So now you have two new kinds of bricks. Congratulations! 
 
+## Reflection 
+
 The tutorial is over so if thats all you care about you can leave. 
 I'm just going to walk you through a bit of the design process and why I made the choices I made.
 
