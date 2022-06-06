@@ -144,3 +144,27 @@ Currently your part should look like this:
 
 <img src="Photos/Circle(9).PNG">
 
+Alright First I would make a sketch and just draw two lines with end points at the origin. One Verticle One Horizontal. 
+
+These are just references for the patterns we're about to make
+
+The first pattern is verticle. 
+
+Select the four studs. Make distance #Width or 8mm, Set instances as 2, and click the box next to centered to make it symmetric. 
+
+Use the reference sketch we just made as the direction 
+
+Now for the other pattern. 
+
+Once again we're making two seperate patterns so that it doesn't fill in the stud where we don't need them 
+
+Just do the exact same thing but make the pattern horizontal 
+
+<img src="Photos/Circle(10).PNG">
+
+Now go into the configuration table and configure the instances for both patterns. 
+
+For the 2x2 row change the instances from 2 to 1 for both patterns 
+
+Now we're going to make the tubes 
+
