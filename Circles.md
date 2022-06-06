@@ -10,7 +10,7 @@ Ok we're about to make the brick that gave me the most greif in my time building
 
 This is mainly due to a lot of redesigns, but also a fatal flaw I had when designing these parts that I hope you reading this don't fall into. 
 
-#### I tried to hard to make the Legos acurate. 
+#### I tried too hard to make the Legos acurate. 
 
 At a certain point you have to go with functionality over form which was the most important lesson I learned while building these legos. 
 
