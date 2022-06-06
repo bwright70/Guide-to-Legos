@@ -14,7 +14,7 @@ This is mainly due to a lot of redesigns, but also a fatal flaw I had when desig
 
 At a certain point you have to go with functionality over form which was the most important lesson I learned while building these legos. 
 
-Your legos need to be functional first and look like the lego second. Cutting corners is not a bad thing. Sometimes you just need something to work and if it's not 100% accurate that completely fine. 
+Your legos need to be functional first and look like the lego second. Sometimes you just need something to work and if it's not 100% accurate that completely fine. 
 
 As long as it does everything the original lego can do, you have succeded. 
 
