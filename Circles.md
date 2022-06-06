@@ -44,7 +44,9 @@ This is the Guide for the [2x2](https://www.bricklink.com/v2/catalog/catalogitem
 
 ### Guide to 2x2 
 
-Alright first we're going to make a circle that 16mm in diameter. 
+Alright first we're going to make a circle that 16mm in diameter. I made a Variable called RowsandColumns to help me keep track of things.  
+
+So the circle should actually be dimensioned RowsandColumns * 8mm 
 
 Extrude that circle out #Height which in this guide is (10/3)mm 
 
@@ -76,7 +78,7 @@ Now make a center circle and make it's two edges tangent to the top and left con
 
 Dimension it to be 5mm.
 
-Then make 3 more equal circles in the other corners. Instead of making them Tangent just make them so that the centers are 8mm away. 
+Then make 3 more equal circles in the other corners. Instead of making them tangent just make them so that the centers are #Length or 8mm away. 
 
 <img src="Photos/Circle(4).PNG">
 
@@ -114,5 +116,31 @@ Yay! Now you have a super cool part
 
 <img src="Photos/Circle.PNG">
 
-### Guide to 4x4 
+# Guide to 4x4 
+
+If you're following along with the document change the Size Configuration to 4x4 
+
+### Lettuce Begin 
+
+Alright first things first, we need to configure somethings. 
+
+We're going to create a configurations table called size. 
+
+Name one of them 2x2 and the other 4x4 
+
+Keep all the 2x2 features the same, and change them only for the 4x4. 
+
+The Features we're are going to configure are: 
+
+- Change #RowsandColumns to 4
+- Change the shell thickness of the shell from #Unit to #Half_Unit 
+- Suppress the extrude remove that removes sections of the bottom lip
+
+We're going to be coming back to the configurations later. 
+
+Currently your part should look like this:
+
+<img src="Photos/Circle(8).PNG">
+
+<img src="Photos/Circle(9).PNG">
 
