@@ -98,9 +98,7 @@ Extrude remove the axel sketch and extrude add the tube made by the 5mm circle o
 
 <img src="Photos/Circle(6).PNG">
 
-Finally we're going to make a sketch on the very bottom of the brick. 
-
-Not inside on the hollow, but on the edge
+Finally we're going to make a sketch on the very bottom of the brick. Not inside on the hollow, but on the edge.
 
 Sketch a horizontal line on the top of lip and make it tangent to the inside edge of the lip.
 
@@ -110,9 +108,9 @@ Your sketch should look something like this:
 
 <img src="Photos/Circle(7).PNG">
 
-Extrude remove the weird looking sections that aren't part of the semi-circles that were created by your lines 
+Extrude remove the weird looking sections that aren't part of the semi-circles that were created by your lines. 
 
-Yay! Now you have a super cool part 
+Yay! Now you have a super cool part! 
 
 <img src="Photos/Circle.PNG">
 
@@ -164,4 +162,8 @@ Now go into the configuration table and configure the instances for both pattern
 
 Now we're going to make the tubes. Buckle up because this is going to get complicated. 
 
-First make a sketch on the bottom of 
+First make a sketch on the bottom of the part. 
+
+Select two studs at the top nearest the hole and make a construction use relation. 
+
+<img src="Photos/Circle(11).PNG">
