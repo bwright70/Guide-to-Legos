@@ -2,7 +2,7 @@
 
 If you want to follow along in the parts studio, here is a link to my [original document](https://cvilleschools.onshape.com/documents/18c55e9aeb64057e8e0fbb6a/w/5c06b8e3c4dcf6e948152fa4/e/18df3578f02c775cfcadaef9?configuration=List_8xTqWDMkkCG2Mw%3D_2x2%3BList_ArQ6GsCPNSkQoQ%3DDefault%3BList_Izy0ldJ6UfParG%3DDefault%3BList_tmPjPdZ9wrB2lD%3DDefault&renderMode=0&uiState=6290d24be366b652b2773d0f). Navigate to the technic folder and open the technic pins part studio. You might have to navigate to all tabs first because I'm pretty sure the link puts you into the square bricks folder. 
 
-## Lets Begin Again Again 
+## Lets Begin
 
 Right off the bat I have a confession to make. 
 
@@ -102,7 +102,7 @@ Congrats you have a Technic Pin! The Reflection for this part is at the very end
 
 To follow along in the document, change the configuration type to half axel and open up the axel folder at the bottom of the feature list. 
 
-## Lets Begin Again for the Fourth Time 
+## Lets Begin Again 
 
 I would highly recommend making this part a configuration, but you can also just make a copy of the Technic Pin document. 
 
@@ -158,7 +158,7 @@ Yay now you have an Axel! The Reflection will be at the end of this guide with t
 
 To follow along switch to the Lift Arm part studio within the technic folder. 
 
-## Having Begun 
+## Lets Begin Again Again
 
 I'm not going to teach you how to make any specific part; just how to make the holes that technic pins and Axels fit into, 
 
