@@ -164,6 +164,4 @@ Now go into the configuration table and configure the instances for both pattern
 
 Now we're going to make the tubes. Buckle up because this is going to get complicated. 
 
-
-
-
+First make a sketch on the bottom of 
