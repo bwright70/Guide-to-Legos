@@ -122,7 +122,7 @@ If you're following along with the document change the Size Configuration to 4x4
 
 ### Lettuce Begin 
 
-Alright first things first, we need to configure somethings. 
+Alright first things first, we need to configure some things. 
 
 We're going to create a configurations table called size. 
 
