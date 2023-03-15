@@ -196,7 +196,10 @@ Alright just one thing left. Right now the outside lip is solid which is a probl
 
 First make a sketch on the outside lip and add both edges to the sketch with the use relation. 
 
-Now draw a line from the inside corner of the half tubes to the outside edge of the lip this line should be 
+Now draw a line from the inside corner of the half tubes to the outside edge of the lip. This line should be perpendicular to the edge of the half tube. 
 
+Now draw a second line at the same starting point as the first ending at the opposite edge. 
 
+Finally make a second parallel line on the other corner of the half tube. 
 
+<img src="Photos/Circle(17).PNG">
