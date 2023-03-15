@@ -167,3 +167,13 @@ First make a sketch on the bottom of the part.
 Select two studs at the top nearest the hole and make a construction use relation. 
 
 <img src="Photos/Circle(11).PNG">
+
+Ok now we're going to make a triangle out of construction lines. 
+
+From the left construction circle's center make a horizontal construction line and a verticle construction line. Dimension them to both be 8mm. Then draw a construction line at their end points to make a right triangle. 
+
+At the end of the horizontal construction line draw a construction circle and dimension it to be 5mm. Then on the verticle construction line create a perpendicular construction line. Dimention it to be 8mm, make it's mid point the verticle construction line, and dimention it's mid point to be 8mm away from the origin. 
+
+Like so: 
+
+
