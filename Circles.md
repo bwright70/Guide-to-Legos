@@ -54,15 +54,13 @@ Now use the shell feature on the bottom of your disk and set Shell thickness to 
 
 Alright now we're going to make a rather complicated sketch. 
 
-when making normal legos you just make a single stud and then pattern that out, but through some trial and error I felt that it was ultimately easier to make a set of four studs and pattern those out. 
+When making normal legos you just make a single stud and then pattern that out, but through some trial and error I felt that it was ultimately easier to make a set of four studs and pattern those out. 
 
 For future parts the circle gets larger in all directions so the we're going to need several patterns anyway, and on bricks like the [6x6](https://www.bricklink.com/v2/catalog/catalogitem.page?P=11213#T=C), we don't actually want the pattern to fill in a lot of the studs 
 
 <img src="Photos/Circle(2).PNG">
 
-As you can see from my beautiful drawing. Using a normal pattern would fill in those places with the red circles. 
-
-Also because the original stud would be off center but also in the middle. All the Patterns would have to be configured with different variables which would get confusing really fast 
+As you can see from my beautiful drawing. Using a normal pattern would fill in those places with the red circles. Also because the original stud would be off center but also in the middle. All the Patterns would have to be configured with different variables which would get confusing really fast.
 
 Anyway all that to say we're about to make a weird sketch. 
 
@@ -72,9 +70,7 @@ Next we're going to make a square on construction lines. The sides of the square
 
 <img src="Photos/Circle(3).PNG">
 
-Now make a center circle and make it's two edges tangent to the top and left construction lines of the square. 
-
-Dimension it to be 5mm.
+Now make a center circle and make it's two edges tangent to the top and left construction lines of the square. Dimension it to be 5mm.
 
 Then make 3 more equal circles in the other corners. Instead of making them tangent just make them so that the centers are #Length or 8mm away. 
 
@@ -114,7 +110,7 @@ Yay! Now you have a super cool part!
 
 # Guide to 4x4 
 
-If you're following along with the document change the Size Configuration to 4x4 
+If you're following along with the document, change the Size Configuration to 4x4 
 
 ### Lettuce Begin 
 
@@ -188,6 +184,12 @@ Finally on the left most circle (which should be the circle futher away from the
 
 Now just extrude the sketch up to the face of the outside lip.
 
-Then create a 
+Then create a circular pattern with instance count at 4 around the origin. 
+
+Fun Fact: If you're following along with the document you'll notice I created a verticle line called axis to use in circular patterns. I learned after the fact that you can acutally use mate connectors which is much more convenient. Just click the little mate connector button next to the axis of pattern box and select the mate connector you want to use. 
+
+Fun Fun Fact: If you hold shift while hovering over a face then all of its mate connectors will stay visible regardless of where you move your mouse which makes selecting mate connectors at the center of holes much easier.
+
+<img src="Photos/Circle(16).PNG">
 
 
