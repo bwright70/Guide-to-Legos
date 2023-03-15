@@ -176,4 +176,4 @@ At the end of the horizontal construction line draw a construction circle and di
 
 Like so: 
 
-
+<img src="Photos/Circle(12).PNG">
