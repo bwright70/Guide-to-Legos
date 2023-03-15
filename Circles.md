@@ -203,3 +203,7 @@ Now draw a second line at the same starting point as the first ending at the opp
 Finally make a second parallel line on the other corner of the half tube. 
 
 <img src="Photos/Circle(17).PNG">
+
+Now just extrude remove the sections on the lip (You might have to add some extra lines to make sure it only removes that section) and then make a circular pattern around the origin.
+
+<img src="Photos/Circle(18).PNG">
