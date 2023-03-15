@@ -2,6 +2,8 @@
 
 If you want to follow along in the parts studio, here is a link to my [original document](https://cvilleschools.onshape.com/documents/18c55e9aeb64057e8e0fbb6a/w/5c06b8e3c4dcf6e948152fa4/e/18df3578f02c775cfcadaef9?configuration=List_8xTqWDMkkCG2Mw%3D_2x2%3BList_ArQ6GsCPNSkQoQ%3DDefault%3BList_Izy0ldJ6UfParG%3DDefault%3BList_tmPjPdZ9wrB2lD%3DDefault&renderMode=0&uiState=6290d24be366b652b2773d0f). Navigate to the Round Square and Axel part studio. You might have to navigate to all tabs first because I'm pretty sure the link puts you into the square bricks folder. Change the configuration to Block Type: Plate, Size: 2x2, and Quarter/Half: Full. 
 
+This is the Guide for the [2x2](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4032#T=C) and [4x4](https://www.bricklink.com/v2/catalog/catalogitem.page?P=60474#T=C). If you want to make the [6x6](https://www.bricklink.com/v2/catalog/catalogitem.page?P=11213#T=C) and [8x8](https://www.brickowl.com/catalog/lego-plate-8-x-8-circle-74611) be my guest. 
+
 ### The Brick Goes South 
 
 Here is the [Brick](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4032#T=C) we are talking about. 
@@ -40,13 +42,11 @@ The best way to fix this is to just use the Use Relation as little as possible w
 
 Anyway lets actually start with the Guide. 
 
-This is the Guide for the [2x2](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4032#T=C) and [4x4](https://www.bricklink.com/v2/catalog/catalogitem.page?P=60474#T=C). If you want to make the [6x6](https://www.bricklink.com/v2/catalog/catalogitem.page?P=11213#T=C) and [8x8](https://www.brickowl.com/catalog/lego-plate-8-x-8-circle-74611) be my guest. 
-
 ### Guide to 2x2 
 
-Alright first we're going to make a circle that 16mm in diameter. I made a Variable called RowsandColumns to help me keep track of things.  
+Alright first we're going to make a circle that 16mm in diameter. I made a Variable called #RowsandColumns to help me keep track of things.  
 
-So the circle should actually be dimensioned RowsandColumns * 8mm 
+So the circle should actually be dimensioned #RowsandColumns * 8mm 
 
 Extrude that circle out #Height which in this guide is (10/3)mm 
 
@@ -188,6 +188,8 @@ Finally on the left most circle (which should be the circle futher away from the
 
 <img src="Photos/Circle(13).PNG">
 
-Now just extrude the sketch up to the face of the outside lip
+Now just extrude the sketch up to the face of the outside lip.
 
-<img src="Photos/Circle(15).PNG">
+Then create a 
+
+
