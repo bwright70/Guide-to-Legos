@@ -194,3 +194,9 @@ Fun Fun Fact: If you hold shift while hovering over a face then all of its mate 
 
 Alright just one thing left. Right now the outside lip is solid which is a problem cause you won't be able to attach it to anything. So lets make some holes. 
 
+First make a sketch on the outside lip and add both edges to the sketch with the use relation. 
+
+Now draw a line from the inside corner of the half tubes to the outside edge of the lip this line should be 
+
+
+
