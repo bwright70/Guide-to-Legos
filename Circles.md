@@ -187,3 +187,7 @@ Finally on the left most circle (which should be the circle futher away from the
 <img src="Photos/Circle(14).PNG">
 
 <img src="Photos/Circle(13).PNG">
+
+Now just extrude the sketch up to the face of the outside lip
+
+<img src="Photos/Circle(15).PNG">
