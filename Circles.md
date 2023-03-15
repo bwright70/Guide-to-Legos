@@ -18,7 +18,7 @@ Your legos need to be functional first and look like the lego second. Sometimes 
 
 As long as it does everything the original lego can do, you have succeded. 
 
-### (Disclaimer: This was the single most frustrating section of the entire lego project. The tubes broke all the time requiring several full redesign that took many many hours of my life. Hopefully I can explain it in a way that doesn't make you tear your hair out) 
+#### (Disclaimer: This was the single most frustrating section of the entire lego project. The tubes broke all the time requiring several full redesign that took many many hours of my life. Hopefully I can explain it in a way that doesn't make you tear your hair out) 
 
 The other lesson I learned was that the USE Relation sucks!!!
 
