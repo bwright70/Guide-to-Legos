@@ -207,3 +207,11 @@ Finally make a second parallel line on the other corner of the half tube.
 Now just extrude remove the sections on the lip (You might have to add some extra lines to make sure it only removes that section) and then make a circular pattern around the origin.
 
 <img src="Photos/Circle(18).PNG">
+
+## Reflection 
+
+Here's a little bit of my thought process when designing each part in this guide 
+
+### 2x2 Circle
+
+### 4x4 Circle 
