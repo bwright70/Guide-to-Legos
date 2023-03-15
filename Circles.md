@@ -144,7 +144,7 @@ Currently your part should look like this:
 
 <img src="Photos/Circle(9).PNG">
 
-Alright First I would make a sketch and just draw two lines with end points at the origin. One Verticle One Horizontal. 
+Alright First I would make a sketch and just draw two lines with end points at the origin. One Verticle and One Horizontal. 
 
 These are just references for the patterns we're about to make
 
@@ -159,6 +159,8 @@ Now for the other pattern.
 Once again we're making two seperate patterns so that it doesn't fill in the stud where we don't need them 
 
 Just do the exact same thing but make the pattern horizontal 
+
+Your end result should look like this: 
 
 <img src="Photos/Circle(10).PNG">
 
