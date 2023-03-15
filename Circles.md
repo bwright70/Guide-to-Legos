@@ -192,4 +192,5 @@ Fun Fun Fact: If you hold shift while hovering over a face then all of its mate 
 
 <img src="Photos/Circle(16).PNG">
 
+Alright just one thing left. Right now the outside lip is solid which is a problem cause you won't be able to attach it to anything. So lets make some holes. 
 
