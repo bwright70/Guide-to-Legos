@@ -90,7 +90,7 @@ Now we're going to make a hole in the middle of our part.
 
 Sketch on the top face of the part and make the Axel sketch from the [Technic Guide](Technic.md)
 
-We're also going to make a second circle thats dimensioned 6.5mm 
+We're also going to make a second circle that's dimensioned 6.5mm 
 
 <img src="Photos/Circle(5).PNG">
 
@@ -172,8 +172,18 @@ Ok now we're going to make a triangle out of construction lines.
 
 From the left construction circle's center make a horizontal construction line and a verticle construction line. Dimension them to both be 8mm. Then draw a construction line at their end points to make a right triangle. 
 
-At the end of the horizontal construction line draw a construction circle and dimension it to be 5mm. Then on the verticle construction line create a perpendicular construction line. Dimention it to be 8mm, make it's mid point the verticle construction line, and dimention it's mid point to be 8mm away from the origin. 
+At the end of the horizontal construction line draw a construction circle and dimension it to be #Tube_Width or 5mm. Then on the verticle construction line create a perpendicular construction line. Dimension it to be 8mm, make it's mid point the verticle construction line, and dimension it's mid point to be 8mm away from the origin. 
 
 Like so: 
 
 <img src="Photos/Circle(12).PNG">
+
+At the end point of the second horizontal line (the one that isn't a part of the triangle) make a two concentric circles. Dimension the first to be #Tube_Width or 5mm and the second to be a #Half_Unit or 0.75mm from the first circle. 
+
+Make another set of circles at the other end of the construction line. 
+
+Finally on the left most circle (which should be the circle futher away from the origin and currently being bisected by a construction line) draw two lines, dimensioned to be 0.25mm long, on the connection points of the diagonal construction line and perpendicular to it. Then draw a line in between them. 
+
+<img src="Photos/Circle(14).PNG">
+
+<img src="Photos/Circle(13).PNG">
