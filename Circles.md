@@ -6,11 +6,11 @@ If you want to follow along in the parts studio, here is a link to my [original 
 
 Here is the [Brick](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4032#T=C) we are talking about. 
 
-Ok we're about to make the brick that gave me the most greif in my time building legos. I struggled for an unreasable amount of time trying to make these 8 bricks contained within this parts studio. 
+Ok we're about to make the brick that gave me the most grief in my time building legos. I struggled for an unreasable amount of time trying to make these 8 bricks contained within this parts studio. 
 
 This is mainly due to a lot of redesigns, but also a fatal flaw I had when designing these parts that I hope you reading this don't fall into. 
 
-#### I tried too hard to make the Legos acurate. 
+#### I tried too hard to make the Legos accurate. 
 
 At a certain point you have to go with functionality over form which was the most important lesson I learned while building these legos. 
 
