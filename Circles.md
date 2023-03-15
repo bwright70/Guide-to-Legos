@@ -18,11 +18,11 @@ Your legos need to be functional first and look like the lego second. Sometimes 
 
 As long as it does everything the original lego can do, you have succeded. 
 
-### Another Lesson 
+### (Disclaimer: This was the single most frustrating section of the entire lego project. The tubes broke all the time requiring several full redesign that took many many hours of my life. Hopefully I can explain it in a way that doesn't make you tear your hair out) 
 
 The other lesson I learned was that the USE Relation sucks!!!
 
-Use is great tool, but IT DOES NOT WORK WITH CONFIGURATIONS, or at least, it doesn't work very well. 
+The Use relation is great tool in most circumstances, but IT DOES NOT WORK WITH CONFIGURATIONS, or at least, it doesn't work very well. 
 
 Let me give you an example:
 
@@ -145,28 +145,25 @@ Currently your part should look like this:
 <img src="Photos/Circle(9).PNG">
 
 Alright First I would make a sketch and just draw two lines with end points at the origin. One Verticle and One Horizontal. 
-
-These are just references for the patterns we're about to make
+These are just references for the patterns we're about to make.
 
 The first pattern is verticle. 
 
 Select the four studs. Make distance #Width or 8mm, Set instances as 2, and click the box next to centered to make it symmetric. 
-
 Use the reference sketch we just made as the direction 
 
 Now for the other pattern. 
 
-Once again we're making two seperate patterns so that it doesn't fill in the stud where we don't need them 
-
-Just do the exact same thing but make the pattern horizontal 
+Once again we're making two seperate patterns so that it doesn't fill in the stud where we don't need them. Just do the exact same thing but make the pattern horizontal 
 
 Your end result should look like this: 
 
 <img src="Photos/Circle(10).PNG">
 
-Now go into the configuration table and configure the instances for both patterns. 
+Now go into the configuration table and configure the instances for both patterns. For the 2x2 row change the instances from 2 to 1 for both patterns. This is easier than just suppressing it and makes it easier to scale. 
 
-For the 2x2 row change the instances from 2 to 1 for both patterns 
+Now we're going to make the tubes. Buckle up because this is going to get complicated. 
 
-Now we're going to make the tubes 
+
+
 
