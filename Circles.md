@@ -8,11 +8,9 @@ This is the Guide for the [2x2](https://www.bricklink.com/v2/catalog/catalogitem
 
 Here is the [Brick](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4032#T=C) we are talking about. 
 
-Ok we're about to make the brick that gave me the most grief in my time building legos. I struggled for an unreasable amount of time trying to make these 8 bricks contained within this parts studio. 
+Ok we're about to make the brick that gave me the most grief in my time building legos. I struggled for an unreasable amount of time trying to make these 8 bricks contained within this parts studio. This was mainly due to a lot of redesigns, but also a fatal flaw I had when designing these parts that I hope you don't fall into. 
 
-This is mainly due to a lot of redesigns, but also a fatal flaw I had when designing these parts that I hope you reading this don't fall into. 
-
-#### I tried too hard to make the Legos accurate. 
+#### 1. I tried too hard to make the Legos accurate
 
 At a certain point you have to go with functionality over form which was the most important lesson I learned while building these legos. 
 
@@ -20,7 +18,7 @@ Your legos need to be functional first and look like the lego second. Sometimes 
 
 As long as it does everything the original lego can do, you have succeded. 
 
-#### (Disclaimer: This was the single most frustrating section of the entire lego project. The tubes broke all the time requiring several full redesign that took many many hours of my life. Hopefully I can explain it in a way that doesn't make you tear your hair out) 
+#### 2. The Use Relation sucks 
 
 The other lesson I learned was that the USE Relation sucks!!!
 
