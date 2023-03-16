@@ -60,7 +60,7 @@ From here your path is up to you. Below I've included walkthroughs to various ki
 * [Slant](Slant.md)
 * [Technic](Technic.md)
 * [Circles](Circles.md) 
-* [Domes] 
+* [Dome](Dome.md) 
 * [Wings] 
 * [Assembling Legos] 
 
