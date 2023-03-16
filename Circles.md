@@ -214,4 +214,26 @@ Here's a little bit of my thought process when designing each part in this guide
 
 ### 2x2 Circle
 
+As I said at the start of this guide, this particular document is the one I sunk the most time into mainly because of some poor future proofing. I had some lynchpin features that ensured that all future features would break if they were changed. 
+
+I'm actually very happy with how the 2x2 ended up. I think astheically its one of the cleanest. 
+
+The main issue came with the stud pattern. This one couldn't be designed with just one stud patterned out because in the future that would make things very difficult. So I made all four studs in one sketch. 
+
+The Axel hole was just trial and error. 
+
+The stud connection points were tricky at first. I couldn't exactly figure out how they were made and several times made holes similar to how the 4x4's connection points are made. But once I figured out it was just tangent lines it became much easier.
+
 ### 4x4 Circle 
+
+This part drove me insane. 
+
+It just broke constantly whenever I had to change a number because I was fine tuning features in another part. It happened a lot whenever I changed the stud height because Onshape perceived it as a new feature which broke the use relation. 
+
+The take away is if you are going to be making a lot of small changes to parts try to avoid useing the use relation. 
+
+When its helpful its really nice, but when its not it can turn 30 minutes of work into 3 hours. 
+
+The half tubes took a bit of trial and error to figure out exactly what I wanted but worked fine once I found the correct dimensions 
+
+
