@@ -40,7 +40,7 @@ The best way to fix this is to just use the Use Relation as little as possible w
 
 Anyway lets actually start with the Guide. 
 
-### Guide to 2x2 
+## Guide to 2x2 
 
 Alright first we're going to make a circle that 16mm in diameter. I made a Variable called #RowsandColumns to help me keep track of things.  
 
@@ -108,7 +108,7 @@ Yay! Now you have a super cool part!
 
 <img src="Photos/Circle.PNG">
 
-# Guide to 4x4 
+## Guide to 4x4 
 
 If you're following along with the document, change the Size Configuration to 4x4 
 
