@@ -29,3 +29,16 @@ Now make a conic arc from the bottom right corner to the end of the top line. At
 Revolve the sketch around the origin mate connector. (If you're following along with the document you'll notice I have an extra sketch and did a sweep instead of a revolve. I honestly have no idea why I choose to do that but a revolve is easier) 
 
 Now select the bottom face and select hollow. Set the Shell thickness to #Unit(1.5mm) 
+
+
+## Reflection 
+
+### 2x2 Dome 
+
+So the Domes comes in three sections: 
+
+1. The stud on the top
+2. The dome section 
+3. The stud connection points 
+
+The reason that the dome is dimensioned to a height of #Height(9.7mm) - #Unit(1.5mm) is because otherwise the dome would be an extra #Unit(1.5mm) tall.
