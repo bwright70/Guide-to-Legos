@@ -44,11 +44,11 @@ Anyway lets actually start with the Guide.
 
 Alright first we're going to make a circle that 16mm in diameter. I made a Variable called #RowsandColumns to help me keep track of things.  
 
-So the circle should actually be dimensioned #RowsandColumns * 8mm 
+So the circle should actually be dimensioned #RowsandColumns(2) * 8mm 
 
-Extrude that circle out #Height which in this guide is (10/3)mm 
+Extrude that circle out #Height(9.7mm)
 
-Now use the shell feature on the bottom of your disk and set Shell thickness to #Unit or 1.5mm
+Now use the shell feature on the bottom of your disk and set Shell thickness to #Unit(1.5mm)
 
 <img src="Photos/Circle(1).PNG">
 
@@ -70,13 +70,13 @@ Next we're going to make a square on construction lines. The sides of the square
 
 <img src="Photos/Circle(3).PNG">
 
-Now make a center circle and make it's two edges tangent to the top and left construction lines of the square. Dimension it to be 5mm.
+Now make a center circle and make it's two edges tangent to the top and left construction lines of the square. Dimension it to be #Tube_Width(5mm).
 
-Then make 3 more equal circles in the other corners. Instead of making them tangent just make them so that the centers are #Length or 8mm away. 
+Then make 3 more equal circles in the other corners. Instead of making them tangent just make them so that the centers are #Length(8mm) away. 
 
 <img src="Photos/Circle(4).PNG">
 
-Now extrude add the circles #Stud_Height or 1.8mm 
+Now extrude add the circles #Stud_Height(1.8mm). 
 
 You'll notice that a small part of the studs have been cut off. This is intentional.
 
@@ -84,11 +84,11 @@ Now we're going to make a hole in the middle of our part.
 
 Sketch on the top face of the part and make the Axel sketch from the [Technic Guide](Technic.md)
 
-We're also going to make a second circle that's dimensioned 6.5mm 
+We're also going to make a second circle that's dimensioned 0.75mm away from the inner circle. 
 
 <img src="Photos/Circle(5).PNG">
 
-Extrude remove the axel sketch and extrude add the tube made by the 5mm circle of the axel sketch and the new 6.5mm circle 
+Extrude remove the axel sketch and extrude add the tube made by the #Tube_Width(5mm) circle of the axel sketch and the new larger circle 
 
 <img src="Photos/Circle(6).PNG">
 
@@ -110,7 +110,7 @@ Yay! Now you have a super cool part!
 
 ## Guide to 4x4 
 
-If you're following along with the document, change the Size Configuration to 4x4 
+If you're following along with the document, change the Size Configuration to 4x4.
 
 ### Lettuce Begin 
 
@@ -141,7 +141,7 @@ These are just references for the patterns we're about to make.
 
 The first pattern is verticle. 
 
-Select the four studs. Make distance #Width or 8mm, Set instances as 2, and click the box next to centered to make it symmetric. 
+Select the four studs. Make distance #Width(8mm), Set instances as 2, and click the box next to centered to make it symmetric. 
 Use the reference sketch we just made as the direction 
 
 Now for the other pattern. 
@@ -166,13 +166,13 @@ Ok now we're going to make a triangle out of construction lines.
 
 From the left construction circle's center make a horizontal construction line and a verticle construction line. Dimension them to both be 8mm. Then draw a construction line at their end points to make a right triangle. 
 
-At the end of the horizontal construction line draw a construction circle and dimension it to be #Tube_Width or 5mm. Then on the verticle construction line create a perpendicular construction line. Dimension it to be 8mm, make it's mid point the verticle construction line, and dimension it's mid point to be 8mm away from the origin. 
+At the end of the horizontal construction line draw a construction circle and dimension it to be #Tube_Width(5mm). Then on the verticle construction line create a perpendicular construction line. Dimension it to be 8mm, make it's mid point the verticle construction line, and dimension it's mid point to be 8mm away from the origin. 
 
 Like so: 
 
 <img src="Photos/Circle(12).PNG">
 
-At the end point of the second horizontal line (the one that isn't a part of the triangle) make a two concentric circles. Dimension the first to be #Tube_Width or 5mm and the second to be a #Half_Unit or 0.75mm from the first circle. 
+At the end point of the second horizontal line (the one that isn't a part of the triangle) make a two concentric circles. Dimension the first to be #Tube_Width(5mm) and the second to be a #Half_Unit(0.75mm) from the first circle. 
 
 Make another set of circles at the other end of the construction line. 
 
