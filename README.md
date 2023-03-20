@@ -6,6 +6,12 @@ by Ben Wright
 
 If you're here I'm going to assume you've already gone through the onshape tutorial for how to build a basic brick. If you haven't you can find it [here](https://cvilleschools.onshape.com/documents/d2d156bfb1db472973063473/w/2ec44ccdcd6dacf683eb0c6f/e/449d413b724c54cc4db32973).
 
+Here is the link to my [Originial Document](https://cvilleschools.onshape.com/documents/18c55e9aeb64057e8e0fbb6a/w/5c06b8e3c4dcf6e948152fa4/e/a8757600460fe3b2054172ab?configuration=List_4lVALT9gYLzr5Z%3DDefault%3BList_OyrNAS2vexALol%3DBlue&renderMode=0&uiState=641871a8b2872b1cf8dd2917)
+
+Here is a link to my [Lego Tie-Fighter](https://cvilleschools.onshape.com/documents/361e6d399d4f00356f4dbded/w/2a95cb2ec476aef1bdcd56dd/e/3fce1c19c609b658dfe2bc93?renderMode=0&uiState=64187183b2872b1cf8dd217f)
+
+Here is a link to an [Unfinished Lego Death Star](https://cvilleschools.onshape.com/documents/51ebc87e97b04476bb93710b/w/655df4e40ec59d8ca6fea86d/e/6f76877e7d89ad6a73c063c1?renderMode=0&uiState=641871bd323e4e7feb3d278d)
+
 ### Updates to the Original
 
 I do have a few things to add to that original assignment once you're done, so make a new document and rebuild that basic lego brick. 
