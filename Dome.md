@@ -30,6 +30,10 @@ Revolve the sketch around the origin mate connector. (If you're following along 
 
 Now select the bottom face and select hollow. Set the Shell thickness to #Unit(1.5mm) 
 
+<img src="Photos/Dome(2).PNG">
+
+
+
 
 ## Reflection 
 
@@ -41,4 +45,4 @@ So the Domes comes in three sections:
 2. The dome section 
 3. The stud connection points 
 
-The reason that the dome is dimensioned to a height of #Height(9.7mm) - #Unit(1.5mm) is because otherwise the dome would be an extra #Unit(1.5mm) tall.
+The reason that the dome is dimensioned to a height of #Height(9.7mm) - #Unit(1.5mm) is because otherwise the dome would be an extra #Unit(1.5mm) tall. 
