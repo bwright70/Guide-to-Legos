@@ -47,4 +47,4 @@ So the Domes comes in three sections:
 
 The reason that the dome is dimensioned to a height of #Height(9.7mm) - #Unit(1.5mm) is because otherwise the dome would be an extra #Unit(1.5mm) tall. 
 
-I was initially confused as to why I had made 
+I was initially confused as to why I had made the bottom connector points soild. Turns out I did have a reason because it breaks if I change it.
