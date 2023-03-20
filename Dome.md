@@ -23,3 +23,5 @@ Dimension the horizontal line to be #Length(8mm)
 Now make a new top line but don't just connect it to the right side line. Instead dimension it to be (5mm + (#Unit/2))/2. Just copy the equation and drop it into onshape. 
 
 Now make a conic arc from the bottom right corner to the end of the top line. Attach it's little arc point to the top of the right line and dimension the arc to be 0.45.
+
+<img src="Photos/Dome(1).PNG">
