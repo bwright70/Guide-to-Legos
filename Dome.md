@@ -25,3 +25,7 @@ Now make a new top line but don't just connect it to the right side line. Instea
 Now make a conic arc from the bottom right corner to the end of the top line. Attach it's little arc point to the top of the right line and dimension the arc to be 0.45.
 
 <img src="Photos/Dome(1).PNG">
+
+Revolve the sketch around the origin mate connector. (If you're following along with the document you'll notice I have an extra sketch and did a sweep instead of a revolve. I honestly have no idea why I choose to do that but a revolve is easier) 
+
+Now select the bottom face and select hollow. Set the Shell thickness to #Unit(1.5mm) 
