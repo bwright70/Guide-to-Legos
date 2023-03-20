@@ -32,7 +32,7 @@ Now select the bottom face and select hollow. Set the Shell thickness to #Unit(1
 
 <img src="Photos/Dome(2).PNG">
 
-
+Now make a sketch on the bottom face of the dome and make a circle dimensioned to 16mm. 
 
 
 ## Reflection 
@@ -46,3 +46,5 @@ So the Domes comes in three sections:
 3. The stud connection points 
 
 The reason that the dome is dimensioned to a height of #Height(9.7mm) - #Unit(1.5mm) is because otherwise the dome would be an extra #Unit(1.5mm) tall. 
+
+I was initially confused as to why I had made 
