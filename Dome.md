@@ -52,7 +52,17 @@ Select top of the inside of the dome and make a sketch.
 
 <img src="Photos/Dome(5).PNG">
 
+You can turn off the section view now by clicking on the little cube in the top right below the camera orientation cube. "Turn section view off" is at the bottom. 
 
+In your new sketch you're going to make a feature fairly similar to the Axel sketch used in the [Technic](Technic.md) and [Circles](Circles.md) tutorials. However it is different in a few key ways. 
+
+Make a circle centered on the origin and dimensioned to be #Tube_Width(5mm). 
+
+Next make a horizontal and verticle construction line passing through the origin. 
+
+Now make the axel shape, and dimension the lines to be (#Unit + (#Unit/2)) away from each other which is 2.25mm. 
+
+<img src="Photos/Dome(6).PNG">
 
 ## Reflection 
 
