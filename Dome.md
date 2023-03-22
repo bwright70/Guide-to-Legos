@@ -42,9 +42,17 @@ Boom. You gotta a Stud. You can also throw on a 0.25mm fillet to the outside edg
 
 Alright now I'm going to show you a little trick thats necessary to make this part work. 
 
-Right click the bottom face of the dome and create a section view 
+Right click the bottom face of the dome and create a section view.
 
 <img src="Photos/Dome(4).PNG">
+
+Click on the arrow and drag it up into the part. Leave the top half the the part visible. You'll notice that we are now able to select thing inside the part. 
+
+Select top of the inside of the dome and make a sketch. 
+
+<img src="Photos/Dome(5).PNG">
+
+
 
 ## Reflection 
 
