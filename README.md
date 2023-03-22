@@ -50,7 +50,7 @@ They are:
 - Stud Height: 1.8mm
 - Tube Width: 5mm
 
-Some of these should already be familar (Rows, Columns, and Height). Length, Width, Tube Width and Stud Height should also be familiar. I made them variables for convenience and to help with organization. If I were re-doing it I would probably make Length and Width one variable. Rod Thickness isn't really that important and is mainly a corner case variable
+Some of these should already be familiar (Rows, Columns, and Height). Length, Width, Tube Width and Stud Height should also be familiar. I made them variables for convenience and to help with organization. If I were re-doing it I would probably make Length and Width one variable. Rod Thickness isn't really that important and is mainly a corner case variable
 
 The most important of the variables is Unit and Half_Unit. Unit might be vaguely familiar to you. When creating the shell, the assignment had you make the walls 1.5mm thick. This is Unit. The thickness of a standard Lego wall. I use it to measure legos to figure out distances I don't know, and when I can't figure out something I plug in Unit of Half_Unit. 
 
