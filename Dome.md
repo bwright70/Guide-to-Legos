@@ -32,8 +32,19 @@ Now select the bottom face and select hollow. Set the Shell thickness to #Unit(1
 
 <img src="Photos/Dome(2).PNG">
 
-Now make a sketch on the bottom face of the dome and make a circle dimensioned to 16mm. 
+Now make a sketch on the bottom face of the dome and make a circle dimensioned to 16mm. Extrude the whole circle #Unit(1.5mm). This extrude should fully cover the opening you just made which I know seems counter-intuitive, but it's necessary for the creating the tube later. 
 
+Now flip your part over and make a sketch on the top of the dome. Make two circles centered on the top of the dome: one dimensioned to be #Rod_Thickness(3.2mm) and the other dimensioned to be #Tube_Width(5mm). Then extrude out the space between the two #Stud_Height(1.8mm). 
+
+Boom. You gotta a Stud. You can also throw on a 0.25mm fillet to the outside edge of the stud to make it look nicer and make assembly easier. 
+
+<img src="Photos/Dome(3).PNG">
+
+Alright now I'm going to show you a little trick thats necessary to make this part work. 
+
+Right click the bottom face of the dome and create a section view 
+
+<img src="Photos/Dome(4).PNG">
 
 ## Reflection 
 
@@ -45,6 +56,7 @@ So the Domes comes in three sections:
 2. The dome section 
 3. The stud connection points 
 
-The reason that the dome is dimensioned to a height of #Height(9.7mm) - #Unit(1.5mm) is because otherwise the dome would be an extra #Unit(1.5mm) tall. 
+The reason that the dome is dimensioned to a height of #Height(9.7mm) - #Unit(1.5mm) is because otherwise the dome would be an extra #Unit(1.5mm) tall. For most bricks the main section of the brick and a connector points are one and the same with a total height of #Height(9.7mm), but with the dome those are two seperate features because it's very hard to work with curves in onshape. 
 
-I was initially confused as to why I had made the bottom connector points soild. Turns out I did have a reason because it breaks if I change it.
+I was initially confused as to why I had made the bottom connector points soild. Turns out I did have a reason because it breaks if I change it. In simple terms it was necessary because the central tube is a loft and you need two faces to select for a loft. It's weird and dumb and took me several attempts but it works; which is the best way to summerize most of my projects. 
+
