@@ -74,14 +74,16 @@ Extrude remove the center of the circle and the curved trapezoid looking areas #
 
 <img src="Photos/Dome(8).PNG">
 
-
 Next make a sketch on a section of the bottom of the Dome that's left
 
 Create a circle centered on the origin dimensioned to be #Tube_Width(5mm). 
 
-Create a construction center point rectangle and use the coincident relation to attach the corners to the edge of the dome 
+Ok now select Loft. The settings should be Surface and New. The Profiles should be the circle created in the inverted axel sketch and the circle you just created. 
 
-Then create a circle that's tangent to each side of the construction rectangle. 
+Now create a Thicken (It's right next to loft). The settings should look like this: 
+
+<img src="Photos/Dome(9).PNG">
+
 
 
 ## Reflection 
