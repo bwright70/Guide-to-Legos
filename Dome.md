@@ -8,7 +8,11 @@ You're going to want to make a new parts studio for this one because it's ver di
 
 I debated whether or not I should include this one because its not a very common brick and doesn't share much with any other bricks, but I think it's probably important to learn just because of how weird it is. 
 
-### 2x2 Dome 
+Also I'm just doing a tutorial on the 2x2 Dome for two reasons: 
+1. I don't think the 4x4 is really necessary to learn 
+2. I may or may not have accidently broken the 4x4 making this tutorial and I don't feel like fixing it
+
+### Dome 
 
 This is the [Brick](https://www.bricklink.com/v2/catalog/catalogitem.page?P=553b#T=C) we're talking about
 
@@ -92,7 +96,7 @@ Add a 0.25mm fillet to the inverted axels and then you're done!
 
 ## Reflection 
 
-### 2x2 Dome 
+### Dome 
 
 So the Domes comes in three sections: 
 
