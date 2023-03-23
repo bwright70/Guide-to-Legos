@@ -84,7 +84,11 @@ Now create a Thicken (It's right next to loft). The settings should look like th
 
 <img src="Photos/Dome(9).PNG">
 
+You'll notice the loft created a surface underneath in the same section as new parts. This is what you select to thicken. Once your thicken is complete just hide the surface. 
 
+Add a 0.25mm fillet to the inverted axels and then you're done! 
+
+<img src="Photos/Dome(10).PNG">
 
 ## Reflection 
 
