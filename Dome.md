@@ -64,9 +64,25 @@ Now make the axel shape, and dimension the lines to be ((#Half_Unit/2) + #Unit) 
 
 <img src="Photos/Dome(7).PNG">
 
-Extrude everything outside the cross down (#Height - #Unit - 2mm). 
+Extrude everything outside the cross down (#Height - #Unit - 2mm), so that an axel  could fit into the gap 
 
-Next 
+Now make a sketch on the bottom of the dome. Create a centerpoint circle on the origin and dimension it #Unit(1.5mm) away from the outer edge of the dome. 
+
+Create 4 lines tangent to the circle: 2 horizontal and 2 verticle. This is very similar sketch to the one in the [Circles](Circles.md) tutorial. 
+
+Extrude remove the center of the circle and the curved trapezoid looking areas #Unit(1.5mm). 
+
+<img src="Photos/Dome(8).PNG">
+
+
+Next make a sketch on a section of the bottom of the Dome that's left
+
+Create a circle centered on the origin dimensioned to be #Tube_Width(5mm). 
+
+Create a construction center point rectangle and use the coincident relation to attach the corners to the edge of the dome 
+
+Then create a circle that's tangent to each side of the construction rectangle. 
+
 
 ## Reflection 
 
