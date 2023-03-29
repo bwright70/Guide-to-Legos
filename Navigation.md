@@ -34,4 +34,8 @@ Hole: Only on 2x... or greater
 
 ### Slant 
 
-Size: 
+Size: NOT 1x1 
+
+Block Type: Brick / Quite Tall
+
+Slant: 
