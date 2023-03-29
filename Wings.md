@@ -3,3 +3,7 @@
 If you want to follow along in the parts studio, here is a link to my [original document](https://cvilleschools.onshape.com/documents/18c55e9aeb64057e8e0fbb6a/w/5c06b8e3c4dcf6e948152fa4/e/18df3578f02c775cfcadaef9?configuration=List_8xTqWDMkkCG2Mw%3D_2x2%3BList_ArQ6GsCPNSkQoQ%3DDefault%3BList_Izy0ldJ6UfParG%3DDefault%3BList_tmPjPdZ9wrB2lD%3DDefault&renderMode=0&uiState=6290d24be366b652b2773d0f). Navigate to the Square Bricks folder and find the Part Studio called Wings. It's towards the back. Change the configurations to Size: 2x2 and Wing: 2x2. You can also roll back the parts studio to right before the plane is added that mirrors the part. 
 
 This is a Guide for my version of the [2x2 Wing](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24299#T=C) (I say my version because it's slightly different from the link), the [3x8 Wing](https://www.bricklink.com/v2/catalog/catalogitem.page?P=50305#T=C), and the [3x3 Triangle](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2450#T=C). I didn't do the [2x3](https://www.bricklink.com/v2/catalog/catalogitem.page?P=43723#T=C) or [2x4](https://www.bricklink.com/v2/catalog/catalogitem.page?P=41770#T=C), but after this tutorial you'll have the skills to make them on your own. 
+
+## Guide to 2x2
+
+First things first you can duplicate your original lego document for this one. (Every part studio in the Square Bricks Folder was duplicated from the original brick) 
