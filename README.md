@@ -67,7 +67,7 @@ From here your path is up to you. Below I've included walkthroughs to various ki
 * [Technic](Technic.md)
 * [Circles](Circles.md) 
 * [Dome](Dome.md) 
-* [Wings] 
+* [Wings](Wings.md) 
 * [Assembling Legos] 
 
 ### A Walkthrough of My Favorite Part
