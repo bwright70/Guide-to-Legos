@@ -32,3 +32,6 @@ Block Type: ALL
 
 Hole: Only on 2x... or greater 
 
+### Slant 
+
+Size: 
