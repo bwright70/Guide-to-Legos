@@ -15,3 +15,19 @@ Now configure the 2nd direction instance count of your top studs pattern. And ch
 Your part should look like this: 
 
 <img src="Photos/Wing(1).PNG">
+
+Ok now we're going to make a very weird and somewhat counterintuitive sketch. The reason we're doing this is to make it future proof for the next part and any other parts 
+
+Make a sketch on the top plane. Your two studs should be at the top of the sketch with blank space at the bottom. 
+
+Draw a line from the top right corner of the brick down. Dimension it to be 8mm. 
+
+Draw a verticle construction line in the space next to the left of your brick from the top left corner to the bottom left corner. Dimension it to be 2mm away from the left edge. The top point of the line should match with the top corner of the brick and the bottom point of the line should match with the bottom corner of the brick. 
+
+Ok this next step is incredibly important: Draw a line from the bottom point of the first line diagonally down so that it is coincident with the bottom edge. 
+
+Dimension the bottom point to be 2mm away from your contruction line. 
+
+#### IMPORTANT: Do not make the bottom point of the line and the bottom left corner of the brick coincident. This will break things later.
+
+<img src="Photos/Wing(2).PNG">
