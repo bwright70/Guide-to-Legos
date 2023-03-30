@@ -10,6 +10,8 @@ First things first you can duplicate your original lego document for this one. (
 
 Go into your configurations table and add a new configuration input called wings. Name one of your rows wings and the other false. 
 
-Now configure the 2nd direction instance count of your top studs pattern. 
+Now configure the 2nd direction instance count of your top studs pattern. And change it from "#Rows" to "#Rows - 1" 
+
+Your part should look like this: 
 
 <img src="Photos/Wing(1).PNG">
