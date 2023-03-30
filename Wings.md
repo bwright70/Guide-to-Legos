@@ -7,3 +7,9 @@ This is a Guide for my version of the [2x2 Wing](https://www.bricklink.com/v2/ca
 ## Guide to 2x2
 
 First things first you can duplicate your original lego document for this one. (Every part studio in the Square Bricks Folder was duplicated from the original brick) 
+
+Go into your configurations table and add a new configuration input called wings. Name one of your rows wings and the other false. 
+
+Now configure the 2nd direction instance count of your top studs pattern. 
+
+<img src="Photos/Wing(1).PNG">
