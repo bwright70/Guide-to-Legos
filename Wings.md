@@ -31,3 +31,13 @@ Dimension the bottom point to be 2mm away from your contruction line.
 #### IMPORTANT: Do not make the bottom point of the line and the bottom left corner of the brick coincident. This will break things later.
 
 <img src="Photos/Wing(2).PNG">
+
+Now just extrude remove the triangle created by your sketch and boom: You got a 2x2 wing. 
+
+<img src="Photos/Wing(3).PNG">
+
+## Guide to 3x8 
+
+## Reflection 
+
+
