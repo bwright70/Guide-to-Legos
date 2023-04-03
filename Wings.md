@@ -44,7 +44,9 @@ First change your size configuration to 3x8
 
 Make a new row in your configurations table called 3x8 and change the value for top studs pattern to #Row
 
-Add a new configuration to your table. Go into the 2x2 sketch and configure the distance between the bottom point of the slant and the bottom point of your construction line. Change the value to 
+Add a new configuration to your table. Go into the 2x2 sketch and configure the distance between the bottom point of the slant and the bottom point of your construction line. Change the value to 18mm. 
+
+
 
 ## Reflection 
 
