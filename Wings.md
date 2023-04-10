@@ -48,6 +48,18 @@ Add a new configuration to your table. Go into the 2x2 sketch and configure the 
 
 <img src="Photos/Wing(4).png">
 
+I'm sure there's an easier way to do this but just go through and delete the extra parts created by the last sketch. It's these 5:
+
+<img src="Photos/Wing(5).png">
+
 ## Reflection 
 
+### 2x2
 
+I made the executive decision when making this part that it didn't need to be an exact replica of [2x2 Wing](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24299#T=C). All it needed to be was functionally identical which made it a very simple 2 feature part
+
+### 3x8 
+
+The main problem I've encountered on my lego making journey is parts like the Wings that can't be scaled up. 
+
+Just like the [Circles](Circles.md), each time you make a new configuration you have to add a bunch of unique features for that part specifically. 
