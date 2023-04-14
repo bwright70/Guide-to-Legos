@@ -50,6 +50,7 @@ Add a new configuration to your table. Go into the 2x2 sketch and configure the 
 
 I'm sure there's an easier way to do this but just go through and delete the extra parts created by the last sketch. It's these 5:
 
+
 <img src="Photos/Wing(5).png">
 
 ## Reflection 
