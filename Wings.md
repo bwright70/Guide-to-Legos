@@ -94,6 +94,16 @@ Extrude the sketch like this:
 
 <img src="Photos/Wing(12).PNG">
 
+Ok just a bit of clean up and we're done 
+
+Make a sketch on bottom of the new extrude we just made. Use the diagonal line from the previous sketch then draw lines to cut off the parts of the tubes that stick out into the negative space created by our previous extrusion. While you're at it remove the triangle at the top of the part too. 
+
+Your final part should look like this: 
+
+<img src="Photos/Wing(13).PNG"> 
+
+I'll let you figure out mate connectors on your own, and I would recommend mirroring the part over a plane so that you have both versions. 
+
 ## Reflection 
 
 ### 2x2
