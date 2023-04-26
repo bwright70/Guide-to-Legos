@@ -56,6 +56,22 @@ Now make a sketch on the top of one of the outside studs. Use the Use Relation t
 
 <img src="Photos/Wing(6).PNG">
 
+We're almost done with clean up. Make a sketch on the top face of the brick and make two construction lines will cut off the remaining studs. Extrude remove and your part should look like this: 
+
+<img src="Photos/Wing(7).PNG">
+
+Flip the brick over and extrude remove the two tubes that have mostly been cut off 
+
+<img src="Photos/Wing(8).PNG">
+
+Ok here comes the fun part where everything can break because we're going to use the "Use Relation"!
+
+First thing you want to do is make the sketch right after we deleted all the extra parts visible. It's the one removing the top studs. 
+
+Select the four circles and click on "Use" (The keyboard shortcut is 'U'). We're also going to select the bottom of the stud at the end of the middle row, and inner circle of the two partially cut off tubes. 
+
+<img src="Photos/Wing(9).PNG">
+
 ## Reflection 
 
 ### 2x2
@@ -66,4 +82,4 @@ I made the executive decision when making this part that it didn't need to be an
 
 The main problem I've encountered on my lego making journey is parts like the Wings that can't be scaled up. 
 
-Just like the [Circles](Circles.md), each time you make a new configuration you have to add a bunch of unique features for that part specifically. 
+Each time you make a new configuration you have to add a bunch of unique features for that part specifically. Everytime you make a new configuration all the features of the previous ones have to suppressed and a bunch of new features must be created. It's why the part studio from [Circles](Circles.md) has 88 features. Each time I made a larger circle I had to remove the changes of the first. 
