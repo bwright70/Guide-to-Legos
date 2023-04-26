@@ -104,14 +104,20 @@ Your final part should look like this:
 
 I'll let you figure out mate connectors on your own, and I would recommend mirroring the part over a plane so that you have both versions. 
 
+## Guide to 3x3 
+
+
+
 ## Reflection 
 
 ### 2x2
 
-I made the executive decision when making this part that it didn't need to be an exact replica of [2x2 Wing](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24299#T=C). All it needed to be was functionally identical which made it a very simple 2 feature part
+I made the executive decision when making this part that it didn't need to be an exact replica of [2x2 Wing](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24299#T=C). All it needed to be was functionally identical which made it a very simple 2 feature part. 
 
 ### 3x8 
 
 The main problem I've encountered on my lego making journey is parts like the Wings that can't be scaled up. 
 
-Each time you make a new configuration you have to add a bunch of unique features for that part specifically. Everytime you make a new configuration all the features of the previous ones have to suppressed and a bunch of new features must be created. It's why the part studio from [Circles](Circles.md) has 88 features. Each time I made a larger circle I had to remove the changes of the first. 
+Each time you make a new configuration you have to add a bunch of unique features for that part specifically. Everytime you make a new configuration all the features of the previous ones have to suppressed and a bunch of new features must be created. It's why the part studio from [Circles](Circles.md) has 88 features. Each time I made a larger circle I had to remove the changes of the first. Thats ultimately why I only did the 2x2 and 3x8. It just would've taken forever to do more espically since I also included the [3x3 Triangle](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2450#T=C).
+
+### 3x3 
