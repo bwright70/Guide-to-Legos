@@ -106,6 +106,12 @@ I'll let you figure out mate connectors on your own, and I would recommend mirro
 
 ## Guide to 3x3 
 
+This part is in another part studio. Navigate to the Triangles part studio, it should be right next to Wings 
+
+If you're following along with the document Change the size to 3x3 and open the triangle folder. Ignore the fact that it's red and giving a bunch of errors. That's because the features for 4x4 and 8x8 are also in there. 
+
+We're ready to begin. 
+
 
 
 ## Reflection 
