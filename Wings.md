@@ -80,6 +80,12 @@ First: a line from the intersection of diagonal line and the top left circle, pe
 
 <img src="Photos/Wing(10).PNG">
 
+Now make a line from the intersection of the circle next to the top left circle and the diagonal edge. Make a second line parallel to it and dimension it #Unit(1.5mm) away. 
+
+Make another line on the other side of the same circle. Make a forth parallel line and dimension it to be (16mm - #Unit * 2) or 13mm. It should look like this: 
+
+<img src="Photos/Wing(11).PNG">
+
 ## Reflection 
 
 ### 2x2
