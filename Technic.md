@@ -16,11 +16,11 @@ Here is what I'm talking about when I say [Technic Pin](https://www.bricklink.co
 
 Begin by sketching a center point circle on the origin and dimensioning it 5mm + #Unit (6.5mm)
 
-Extrude add it #Half_Unit
+Extrude add it #Half_Unit(0.75mm)
 
 Then sketch a second center point circle on your disk and dimension it 5mm. 
 
-Extrude it up (8 * #Rows)mm - #Half_Unit or 7.25mm. 
+Extrude it up (8 * #Rows)mm - #Half_Unit(7.25mm). 
 
 <img src="Photos/Technic.PNG">
 
@@ -32,7 +32,7 @@ This means that the total length of a technic pin is 16mm because that is the wi
 
 Anyway tangent aside lets get back to the part. 
 
-Sketch another center circle on the new extrusion and dimension it equal to #Rod_Thickness or 4mm 
+Sketch another center circle on the new extrusion and dimension it equal to #Rod_Thickness(4mm)
 
 #### (Rod_Thickness also requires futher testing and it's just a place holder)
 
