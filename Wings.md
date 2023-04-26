@@ -72,6 +72,14 @@ Select the four circles and click on "Use" (The keyboard shortcut is 'U'). We're
 
 <img src="Photos/Wing(9).PNG">
 
+Make a diagonal line from the top edge of the brick to the right edge. Make it parallel to the diagonal edge and dimension #Unit(1.5mm) away. 
+
+Ok now we're going to make several lines. 
+
+First: a line from the intersection of diagonal line and the top left circle, perpendicular to the diagonal edge, ending at the diagonal edge. 
+
+<img src="Photos/Wing(10).PNG">
+
 ## Reflection 
 
 ### 2x2
