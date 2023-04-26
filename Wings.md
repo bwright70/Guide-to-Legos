@@ -86,6 +86,14 @@ Make another line on the other side of the same circle. Make a forth parallel li
 
 <img src="Photos/Wing(11).PNG">
 
+Finally make another two lines on both sides of the bottom right circle. Make another line to the left of the left line and dimension it to be #Unit(1.5mm) away. 
+
+You may also need to add the edges of the brick to your part through the "Use Relation"
+
+Extrude the sketch like this:
+
+<img src="Photos/Wing(12).PNG">
+
 ## Reflection 
 
 ### 2x2
