@@ -104,7 +104,7 @@ Your final part should look like this:
 
 I'll let you figure out mate connectors on your own, and I would recommend mirroring the part over a plane so that you have both versions. 
 
-## Guide to 3x3 
+## Guide to Triangles
 
 This part is in another part studio. Navigate to the Triangles part studio, it should be right next to Wings 
 
@@ -115,6 +115,8 @@ We're ready to begin.
 Make a sketch on the bottom of the part create a diagonal line from the top edge of part to the left egde of the part. Dimension the top end point to be 8mm away from the top right corner and the bottom end point to be 8mm away from the bottom left corner. Then extrude remove the triangle created byv your sketch. 
 
 <img src="Photos/Triangle(1).PNG"> 
+
+Make a sketch on the cut off bottom tube and draw a line to close the semi circle. Extrude remove up to the bottom face. 
 
 ## Reflection 
 
@@ -128,4 +130,4 @@ The main problem I've encountered on my lego making journey is parts like the Wi
 
 Each time you make a new configuration you have to add a bunch of unique features for that part specifically. Everytime you make a new configuration all the features of the previous ones have to suppressed and a bunch of new features must be created. It's why the part studio from [Circles](Circles.md) has 88 features. Each time I made a larger circle I had to remove the changes of the first. Thats ultimately why I only did the 2x2 and 3x8. It just would've taken forever to do more espically since I also included the [3x3 Triangle](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2450#T=C).
 
-### 3x3 
+### Triangles 
