@@ -112,7 +112,9 @@ If you're following along with the document Change the size to 3x3 and open the 
 
 We're ready to begin. 
 
+Make a sketch on the bottom of the part create a diagonal line from the top edge of part to the left egde of the part. Dimension the top end point to be 8mm away from the top right corner and the bottom end point to be 8mm away from the bottom left corner. Then extrude remove the triangle created byv your sketch. 
 
+<img src="Photos/Triangle(1).PNG"> 
 
 ## Reflection 
 
