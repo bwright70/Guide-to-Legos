@@ -78,4 +78,11 @@ If you want to follow along in the parts studio, here is a link to my [original 
 Navigate to the Square Bricks folder and find the Part Studio called Inverse Mini Slant. Change the Configurations so that Size is 1x2, Block Type is Plate, and Inverse Slant is Wedge. 
 
 
+
+
+
+
+
+
+
 #### THIS TUTORIAL IS NOT COMPLETE
