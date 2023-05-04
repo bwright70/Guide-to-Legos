@@ -81,7 +81,9 @@ Navigate to the Square Bricks folder and find the Part Studio called Inverse Min
 
 The first thing we have to do is actually make a different part that this part is built off of: [The Inverted Mini Slant](https://www.bricklink.com/v2/catalog/catalogitem.page?P=52501&name=Slope,%20Inverted%2045%206%20x%201%20Double%20with%201%20x%204%20Cutout&category=%5BSlope,%20Inverted%5D#T=C)
 
+Change the configuration to 1x2 Plate 
 
+Make a sketch on the long side of brick. Make a corner rec
 
 
 
