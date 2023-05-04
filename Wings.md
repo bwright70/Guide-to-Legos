@@ -155,3 +155,5 @@ The main problem I've encountered on my lego making journey is parts like the Wi
 Each time you make a new configuration you have to add a bunch of unique features for that part specifically. Everytime you make a new configuration all the features of the previous ones have to suppressed and a bunch of new features must be created. It's why the part studio from [Circles](Circles.md) has 88 features. Each time I made a larger circle I had to remove the changes of the first. Thats ultimately why I only did the 2x2 and 3x8. It just would've taken forever to do more espically since I also included the [3x3 Triangle](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2450#T=C).
 
 ### Triangles 
+
+Not much to say about this part other than this is one that actually does scale up pretty well. Just add a few linear patterns and a configurations table and you'll be good to go. 
