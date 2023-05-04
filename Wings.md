@@ -106,7 +106,7 @@ I'll let you figure out mate connectors on your own, and I would recommend mirro
 
 ## Guide to Triangles
 
-This part is in another part studio. Navigate to the Triangles part studio, it should be right next to Wings 
+This part is in another part studio. Navigate to the Triangles part studio, it should be right next to Wings. 
 
 If you're following along with the document Change the size to 3x3 and open the triangle folder. Ignore the fact that it's red and giving a bunch of errors. That's because the features for 4x4 and 8x8 are also in there. 
 
@@ -123,6 +123,18 @@ Make a sketch on the cut off bottom tube and draw a line to close the semi circl
 Make a sketch on the bottom face. Draw an aligned rectangle, aligned with the diagonal edge, from the bottom point of your diagonal edge. Dimension it to be 1.036mm along the edge and #Unit(1.5mm). Draw a line from the bottom corner of your square to the inside edge of the part. Do the same on the other corner. 
 
 <img src="Photos/Triangle(2).PNG">
+
+Now extrude those four features up to the bottom face of the edge. 
+
+Last things last make a sketch on the bottom face. 
+
+Make two construction circles on the diagonal edge line. Dimension them to be 5mm and tangent with the edge of the new feature you just made. 
+
+Make an aligned rectangle from the inner intersection points of each of your construction circles. Dimension its other side to be #Unit(1.5mm).
+
+Make a second aligned rectangle on the inner edge of the first rectangle and centered on it's centerline. Dimension it to be #Unit(1.5mm) long and 1mm wide. 
+
+<img src="Photos/Triangle(3).PNG">
 
 ## Reflection 
 
