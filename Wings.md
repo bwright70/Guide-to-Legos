@@ -136,6 +136,12 @@ Make a second aligned rectangle on the inner edge of the first rectangle and cen
 
 <img src="Photos/Triangle(3).PNG">
 
+I intially designed this feature differently so ignore some of the dimensions I have in there. 
+
+Now just extrude that feature out and you're done!
+
+<img src="Photos/Triangle(4).PNG">
+
 ## Reflection 
 
 ### 2x2
