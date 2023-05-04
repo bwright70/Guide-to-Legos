@@ -118,6 +118,12 @@ Make a sketch on the bottom of the part create a diagonal line from the top edge
 
 Make a sketch on the cut off bottom tube and draw a line to close the semi circle. Extrude remove up to the bottom face. 
 
+(If you're following along with the document you can ignore some of the features cause they're for different configurations)
+
+Make a sketch on the bottom face. Draw an aligned rectangle, aligned with the diagonal edge, from the bottom point of your diagonal edge. Dimension it to be 1.036mm along the edge and #Unit(1.5mm). Draw a line from the bottom corner of your square to the inside edge of the part. Do the same on the other corner. 
+
+<img src="Photos/Triangle(2).PNG">
+
 ## Reflection 
 
 ### 2x2
