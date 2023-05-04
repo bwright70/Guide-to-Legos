@@ -69,7 +69,7 @@ From here your path is up to you. Below I've included walkthroughs to various ki
 * [Dome](Dome.md) 
 * [Wings](Wings.md) 
 
-### A Walkthrough of My Favorite Part
+## A Walkthrough of My Favorite Part
 
 My favorite brick I ever designed was the [4x4 Inverted Wedge](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4855#T=C). I personally think it looks the coolest and when I was making it I got stuck on a problem, fell alseep, and then had a dream where I fixed the problem. When I woke up my dream solution actually worked. I would recommend checking out slants before you check out this one because it's built off an inverse mirrored slant. 
 
