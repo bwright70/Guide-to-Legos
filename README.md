@@ -87,6 +87,4 @@ Make a sketch on the long side of brick. Make a corner rectangle on a bottom cor
 
 <img src="Photos/Wedge(1).PNG">
 
-
-
 #### THIS TUTORIAL IS NOT COMPLETE
