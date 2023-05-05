@@ -83,7 +83,9 @@ The first thing we have to do is actually make a different part that this part i
 
 Change the configuration to 1x2 Plate 
 
-Make a sketch on the long side of brick. Make a corner rectangle
+Make a sketch on the long side of brick. Make a corner rectangle on a bottom corner. Dimension it 10mm by 8mm. Make a horizontal line and dimension it 1.754mm away from the top edge of your rectangle. Finally draw a diagonal line from the bottom corner of your rectangle closer to the brick to the opposite intersection of your line and the rectangle. (That was poorly explained, sorry)
+
+<img src="Photos/Wedge(1).PNG">
 
 
 
