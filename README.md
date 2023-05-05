@@ -83,7 +83,7 @@ The first thing we have to do is actually make a different part that this part i
 
 Change the configuration to 1x2 Plate 
 
-Make a sketch on the long side of brick. Make a corner rec
+Make a sketch on the long side of brick. Make a corner rectangle
 
 
 
