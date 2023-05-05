@@ -83,8 +83,12 @@ The first thing we have to do is actually make a different part that this part i
 
 Change the configuration to 1x2 Plate 
 
-Make a sketch on the long side of brick. Make a corner rectangle on a bottom corner. Dimension it 10mm by 8mm. Make a horizontal line and dimension it 1.754mm away from the top edge of your rectangle. Finally draw a diagonal line from the bottom corner of your rectangle closer to the brick to the opposite intersection of your line and the rectangle. (That was poorly explained, sorry)
+Make a sketch on the long side of brick. Make a corner rectangle on a bottom corner. Dimension it 10mm by 8mm. Make a horizontal line and dimension it 1.754mm away from the top edge of your rectangle. Finally draw a diagonal line from the bottom corner of your rectangle closer to the brick to the opposite intersection of your line and the rectangle. (That was poorly explained, sorry) It looks like this: 
 
 <img src="Photos/Wedge(1).PNG">
+
+Extrude the triangle and top rectangle. 
+
+Make a sketch on the top of your new feature make a cirle and dimension it to be 5mm. Dimension each of it's edges to be #Unit(1.5mm) away from both edges. This is the same as just centering it, but it future proofs it against potential changes. By defining the dimensions instead of leaving it to relations you future proof your scaling process.
 
 #### THIS TUTORIAL IS NOT COMPLETE
