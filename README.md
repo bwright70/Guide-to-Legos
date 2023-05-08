@@ -115,4 +115,6 @@ Now extrude all those sections #Unit(1.5mm) so that your part now looks like thi
 
 <img src="Photos/Wedge(6).PNG">
 
+Now make a sketch on the plane that bisects your part 
+
 #### THIS TUTORIAL IS NOT COMPLETE
