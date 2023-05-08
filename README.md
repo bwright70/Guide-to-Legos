@@ -99,4 +99,6 @@ Now just mirror everything over to the otherside, and you're done.
 
 <img src="Photos/Wedge(2).PNG">
 
+Ok listen... I don't think I can explain this next sketch. So I'm just going to put a series of images up 
+
 #### THIS TUTORIAL IS NOT COMPLETE
