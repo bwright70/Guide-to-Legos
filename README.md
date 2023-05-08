@@ -99,12 +99,20 @@ Now just mirror everything over to the otherside, and you're done.
 
 <img src="Photos/Wedge(2).PNG">
 
-Ok listen... I don't think I can explain this next sketch. So I'm just going to put a series of images up: 
+### Wedge
+
+We are now beginning the fun part! This is going to be hard to explain so I'm going to rely pretty heavily on images 
+
+I don't think I can explain this next sketch. So I'm just going to put a series of images up: 
 
 <img src="Photos/Wedge(3).PNG">
 
 <img src="Photos/Wedge(4).PNG">
 
 <img src="Photos/Wedge(5).PNG">
+
+Now extrude all those sections #Unit(1.5mm) so that your part now looks like this: 
+
+<img src="Photos/Wedge(6).PNG">
 
 #### THIS TUTORIAL IS NOT COMPLETE
