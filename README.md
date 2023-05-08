@@ -91,4 +91,12 @@ Extrude the triangle and top rectangle.
 
 Make a sketch on the top of your new feature make a cirle and dimension it to be 5mm. Dimension each of it's edges to be #Unit(1.5mm) away from both edges. This is the same as just centering it, but it future proofs it against potential changes. By defining the dimensions instead of leaving it to relations you future proof your scaling process.
 
+Extrude your circle up #Stud_Height(1.8mm) and then add a 0.25mm fillet to the edge. 
+
+I would also recommend throwing on a linear pattern with every feature we just made. Set the direction to the length side of the brick and the instance count to #Rows. Now if you change the dimensions the feature should scale with it. 
+
+Now just mirror everything over to the otherside, and you're done. 
+
+<img src="Photos/Wedge(2).PNG">
+
 #### THIS TUTORIAL IS NOT COMPLETE
