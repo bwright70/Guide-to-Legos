@@ -115,10 +115,12 @@ Now extrude all those sections #Unit(1.5mm) so that your part now looks like thi
 
 <img src="Photos/Wedge(6).PNG">
 
-Now make a sketch on the plane that bisects your part 
+Now make a sketch on the plane that bisects your part and make this sketch: 
 
 <img src="Photos/Wedge(7).PNG">
 
 <img src="Photos/Wedge(8).PNG">
+
+
 
 #### THIS TUTORIAL IS NOT COMPLETE
