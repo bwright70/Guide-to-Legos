@@ -121,6 +121,10 @@ Now make a sketch on the plane that bisects your part and make this sketch:
 
 <img src="Photos/Wedge(8).PNG">
 
+Make a sketch on the side of your brick with the wedge outline. Draw a rectangle on the left bottom corner to the right bottom corner and dimension it #Height/2(1.617mm). 
 
+Then make a sweep. Set the face of the sweep the rectangle and the sweep path the hypotenuse of your triangle sketch. 
+
+<img src="Photos/Wedge(9).PNG">
 
 #### THIS TUTORIAL IS NOT COMPLETE
