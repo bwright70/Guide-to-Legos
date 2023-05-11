@@ -135,4 +135,9 @@ Find the plane feature
 
 <img src="Photos/Wedge(10).PNG">
 
+Change the type to 3 point plane. Your three points are: the two points of the triangle created by your sweep and frame, and bottom intersection point of your frame and the original brick. 
+
+<img src="Photos/Wedge(11).PNG">
+
+
 #### THIS TUTORIAL IS NOT COMPLETE
