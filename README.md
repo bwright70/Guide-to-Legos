@@ -123,7 +123,7 @@ Now make a sketch on the plane that bisects your part and make this sketch:
 
 Make a sketch on the side of your brick with the wedge outline. Draw a rectangle on the left bottom corner to the right bottom corner and dimension it #Height/2(1.617mm). 
 
-Then make a sweep. Set the face of the sweep the rectangle and the sweep path the hypotenuse of your triangle sketch. 
+Then make a sweep (It's right next to extrude). Set the face of the sweep the rectangle and the sweep path the hypotenuse of your triangle sketch. 
 
 <img src="Photos/Wedge(9).PNG">
 
@@ -139,5 +139,18 @@ Change the type to 3 point plane. Your three points are: the two points of the t
 
 <img src="Photos/Wedge(11).PNG">
 
+Now you're going to make a sketch on your new plane and create a triangle with vertices at the same three points selected to make the plane. 
+
+Extrude your Sketch #Half_Unit(0.75mm) into the brick. 
+
+You'll notice that there is still a small section of the hole that the triangle did not fill. 
+
+<img src="Photos/Wedge(12).PNG">
+
+We're going to use a loft to fix this. Select Loft (It's right next to sweep), and select the face not covered by the three point plane and the top point of your triangle. 
+
+Now repeat this process on the other side 
+
+<img src="Photos/Wedge(13).PNG">
 
 #### THIS TUTORIAL IS NOT COMPLETE
