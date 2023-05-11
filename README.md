@@ -127,4 +127,12 @@ Then make a sweep. Set the face of the sweep the rectangle and the sweep path th
 
 <img src="Photos/Wedge(9).PNG">
 
+Make a sketch and extrude to remove the part of the sweep sticking over the top. 
+
+Ok now is the fun part. (Fun fact when making this part I couldn't figure out how to make the sides of the wedge. I went to sleep and the solution came to me in a dream.) 
+
+Find the plane feature 
+
+<img src="Photos/Wedge(10).PNG">
+
 #### THIS TUTORIAL IS NOT COMPLETE
